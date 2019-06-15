@@ -1,0 +1,2 @@
+# pp_argentina
+I will analyze ten economic and social indicators collected for each province in Argentina using Principal Component Analysis (PCA) to reduce redundancies and highlight patterns that are not apparent in the raw data. After visualizing the patterns and use k-means clustering to partition the provinces into groups with similar development levels. These results can be used to plan public policy by helping allocate resources to develop infrastructure, education, and welfare programs.
